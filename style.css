@@ -1,0 +1,32 @@
+.header-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.log-in{
+    color: black;
+    background-color: white;
+    border-radius: 8px;
+    font-weight: bolder;
+    border-color: black;
+    height: auto;
+    width:50px;
+}
+ 
+.log-in:hover{
+    color: rgb(211, 22, 22);
+    background-color: black;
+    border-radius: 8px;
+    font-weight: bolder;
+    border-color: white;
+    height: auto;
+    width:50px;
+    cursor: crosshair;
+}
+ 
+img {
+    width: 100%;
+}
+
